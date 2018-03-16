@@ -1,9 +1,4 @@
-text-center
-text-right
-text-md-center
-text-justify
-text-uppercase
-text-lowercase
-text-capitalize
-font-weight-bold
-font-weight-italic
+list-unstyled
+list-inline => list-inline-item
+blockquote
+blockquote-footer
