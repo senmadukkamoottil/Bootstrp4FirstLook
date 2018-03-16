@@ -1,4 +1,10 @@
-list-unstyled
-list-inline => list-inline-item
-blockquote
-blockquote-footer
+img-fliud
+rounded
+rounded-circle
+rounded-top
+rounded-0
+float-left
+float-right
+text-center
+figure-img
+figure-caption
