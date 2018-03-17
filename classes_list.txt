@@ -6,3 +6,6 @@ rows
 col
 
 offset-md-1
+
+nested col in grid
+img-thumbnail
