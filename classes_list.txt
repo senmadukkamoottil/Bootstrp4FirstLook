@@ -4,3 +4,5 @@ text-center
 mx-auto
 rows
 col
+
+offset-md-1
