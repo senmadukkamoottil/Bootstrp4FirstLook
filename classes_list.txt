@@ -1,10 +1,6 @@
-img-fliud
-rounded
-rounded-circle
-rounded-top
-rounded-0
-float-left
-float-right
+container
+container-fluid
 text-center
-figure-img
-figure-caption
+mx-auto
+rows
+col
