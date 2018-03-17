@@ -9,3 +9,8 @@ offset-md-1
 
 nested col in grid
 img-thumbnail
+
+no-gutters
+
+order-md-1
+order-md-2
