@@ -13,4 +13,6 @@ img-thumbnail
 no-gutters
 
 order-md-1
-order-md-2
+order-md-2 
+flex-column
+d-flex
