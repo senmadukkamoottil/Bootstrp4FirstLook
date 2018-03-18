@@ -12,4 +12,9 @@ text-light
 
 card-header
 card-footer
+card-group
+card-deck
+card-columns
+or
+(container -> row -> cols to arrange cards)
 
