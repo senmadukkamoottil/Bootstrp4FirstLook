@@ -1,18 +1,7 @@
-container
-container-fluid
-text-center
-mx-auto
-rows
-col
+table-striped
+table-hover
+table-bordered
+table-responsive
 
-offset-md-1
-
-nested col in grid
-img-thumbnail
-
-no-gutters
-
-order-md-1
-order-md-2 
-flex-column
-d-flex
+bg-success
+bg-danger text-light
