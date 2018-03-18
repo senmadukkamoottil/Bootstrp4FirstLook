@@ -1,5 +1,5 @@
 card
-card-body
+card-body/card-img-overlay
 card-title
 card-subtitle
 card-text
@@ -9,3 +9,7 @@ card-img
 border-info
 bg-primary
 text-light
+
+card-header
+card-footer
+
