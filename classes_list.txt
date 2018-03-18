@@ -1,7 +1,11 @@
-table-striped
-table-hover
-table-bordered
-table-responsive
+card
+card-body
+card-title
+card-subtitle
+card-text
+card-link
+card-img
 
-bg-success
-bg-danger text-light
+border-info
+bg-primary
+text-light
